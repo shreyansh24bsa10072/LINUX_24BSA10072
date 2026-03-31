@@ -1,8 +1,8 @@
 # OSS Audit — Git
 ### oss-audit-24bce11519
 
-**Student Name:** Rishav Raj  
-**Registration Number:**24bce11519
+**Student Name:** Priyank Solanki 
+**Registration Number:**24bsa10072
 **Course:** Open Source Software (OSS NGMC)  
 **Chosen Software:** Git (Version Control System) — Licensed under GPL v2  
 
