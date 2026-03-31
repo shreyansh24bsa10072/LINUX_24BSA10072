@@ -1,7 +1,7 @@
 # OSS Audit — Git
 ### oss-audit-24bce11519
 
-**Student Name:** Priyank Solanki 
+**Student Name:** Shreyansh Singh
 **Registration Number:**24bsa10072
 **Course:** Open Source Software (OSS NGMC)  
 **Chosen Software:** Git (Version Control System) — Licensed under GPL v2  
